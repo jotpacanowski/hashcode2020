@@ -1,0 +1,12 @@
+filename = "input/instance1.txt"
+B = 1000000
+L = 10000
+D = 10000
+score_d = 10
+score_u = 100
+signup_d = 2
+signup_u = 10
+eff_d = 2
+eff_u = 5
+bklib_d = 1
+bklib_u = 100
