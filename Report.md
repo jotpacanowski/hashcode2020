@@ -93,7 +93,7 @@ visible on the scatter plots. This instance is only a debug instance,
 useful for testing parsers and debugging solvers.
 
 ![Instance "a", example from the task
-statement](res/instance-a_example.pdf)
+statement](res/instance-a_example.png)
 
 #### b_read_on
 
