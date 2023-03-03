@@ -2,6 +2,8 @@
 
 Final project for the Combinatorial Optimization course at PUT.
 
+Check out [the report](Report.md#final-project-report) for implementation details.
+
 The main script is located in file `main_solver.py`.
 We tested the code using Python 3.10 with numpy 1.24.
 
