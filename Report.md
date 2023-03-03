@@ -1,3 +1,4 @@
+<!-- Github renders this as a table, why?
 ---
 abstract: |
   The aim of this project was to find an algorithm that could solve an
@@ -15,12 +16,20 @@ title: |
   Combinatorial Optimization Laboratories -- final project\
   Google Hashcode 2020 Solver\
 ---
+-->
 
 # final project report
 
 authors: Michał Wiliński, Jędrzej Pacanowski
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+The aim of this project was to find an algorithm that could solve an
+NP-hard problem. The selected problem was the book scanning problem
+proposed at Google Hashcode 2020 Qualifications Round. We decided to
+combine a greedy solver (good results to build on) with a genetic
+algorithm (able to explore more solutions). The results of our work
+are presented in this report.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Understanding the problem
 
@@ -94,7 +103,7 @@ any library will have books to send. In this example, the optimal order
 of libraries is achieved by sorting them on the remaining criterion --
 registration time.
 
-![Instance "b". ](res/instance-b_read_on.pdf)
+![Instance "b". ](res/instance-b_read_on.png)
 
 #### c_incunabula
 
